@@ -1,6 +1,8 @@
 Rencana koding
 - javascript
- *struktur data dasar
+ *Vue js
+-struktur data dasar
 - php franework
+ * laravel
 - interview
 - vidio
