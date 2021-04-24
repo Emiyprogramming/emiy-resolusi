@@ -1,5 +1,6 @@
 Rencana koding
 - javascript
+ *struktur data dasar
 - php franework
 - interview
 - vidio
