@@ -1,6 +1,7 @@
 Rencana koding
 - javascript
  *Vue js
+ * Reach
 -struktur data dasar
 - php franework
  * laravel
