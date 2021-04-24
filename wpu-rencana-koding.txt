@@ -6,3 +6,4 @@ Rencana koding
  * laravel
 - interview
 - vidio
+- Phyton
